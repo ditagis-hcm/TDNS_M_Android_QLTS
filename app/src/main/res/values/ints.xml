@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_short">32767</integer>
+    <integer name="max_int">2147483647</integer>
+
+    <integer name="LEVEL_OF_DETAIL">12</integer>
+
+    <!--MINSCALE START-->
+
+    <integer name="MIN_SCALE_DONG_HO_TONG">1000000</integer>
+    <integer name="MIN_SCALE_VAN">2000</integer>
+    <integer name="MIN_SCALE_MOI_NOI">2000</integer>
+    <integer name="MIN_SCALE_NHA_MAY_NUOC">2000</integer>
+    <integer name="MIN_SCALE_ONG_TRUYEN_DAN">1000000</integer>
+    <integer name="MIN_SCALE_THAP_CAT_AP">10000</integer>
+    <integer name="MIN_SCALE_THUY_DAI">10000</integer>
+    <integer name="MIN_SCALE_TRU_HONG">2000</integer>
+    <integer name="MIN_SCALE_DON_VI">2000</integer>
+
+    <integer name="MIN_SCALE_TIM_DUONG">20000</integer>
+    <integer name="MIN_SCALE_TIM_SONG">20000</integer>
+    <integer name="MIN_SCALE_GIAO_THONG">20000</integer>
+    <integer name="MIN_SCALE_SONG_HO">20000</integer>
+    <integer name="MIN_SCALE_THUA_DAT">2100</integer>
+    <integer name="MIN_SCALE_PHUONG_XA">24000</integer>
+    <integer name="MIN_SCALE_HANH_CHINH">0</integer>
+    <!--MINSCALE END-->
+</resources>
