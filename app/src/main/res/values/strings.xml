@@ -80,7 +80,7 @@
 
 
     <!--url basemap-->
-    <string name="URL_BASE_MAP">https://sawagis.vn/arcgis/rest/services/TruyenDan/BaseMapTruyenDan/MapServer</string>
+    <string name="URL_BASE_MAP">https://sawagis.vn/arcgis/rest/services/TruyenDan/BaseMapTruyenDan/MapServer/</string>
     <string name="URL_TIM_DUONG">http://sawagis.vn/arcgis/rest/services/TruyenDan/BaseMapTruyenDan/MapServer/0</string>
     <string name="URL_TIM_SONG">http://sawagis.vn/arcgis/rest/services/TruyenDan/BaseMapTruyenDan/MapServer/1</string>
     <string name="URL_SONG_HO">http://sawagis.vn/arcgis/rest/services/TruyenDan/BaseMapTruyenDan/MapServer/2</string>

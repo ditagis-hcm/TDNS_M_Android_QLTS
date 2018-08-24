@@ -243,15 +243,11 @@ public class QuanLyTaiSan extends AppCompatActivity implements NavigationView.On
                     public void run() {
                         if (hanhChinhImageLayers.getLoadStatus() == LoadStatus.LOADED) {
                             ListenableList<ArcGISSublayer> sublayerList = hanhChinhImageLayers.getSublayers();
+                            String url_HanhChinh = config.getUrl() + 5;
+                            ServiceFeatureTable serviceFeatureTable = new ServiceFeatureTable(url_HanhChinh);
+                            popupInfos.setmSFTHanhChinh(serviceFeatureTable);
                             for (ArcGISSublayer sublayer : sublayerList) {
-                                if (sublayer.getId() == 6) {
-                                    String url_HanhChinh = config.getUrl() + sublayer.getId();
-                                    ServiceFeatureTable serviceFeatureTable = new ServiceFeatureTable(url_HanhChinh);
-                                    popupInfos.setmSFTHanhChinh(serviceFeatureTable);
-
-                                }
                                 addCheckBox_SubLayer((ArcGISMapImageSublayer) sublayer);
-
                             }
 
                         }

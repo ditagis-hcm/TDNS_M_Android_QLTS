@@ -469,6 +469,7 @@ public class Popup extends AppCompatActivity {
                 Object idHanhChinh = feature.getAttributes().get("IDHanhChinh");
                 if (idHanhChinh != null && idHanhChinh.equals(IDHanhChinh)) {
                     quanhuyen_feature = feature;
+                    break;
                 }
             }
         }
