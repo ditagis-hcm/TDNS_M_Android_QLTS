@@ -68,15 +68,15 @@
     <!--TITLE SERVICE END-->
 
     <!--URL SERVICE START-->
-    <string name="URL_DONG_HO_TONG">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/0</string>
-    <string name="URL_VAN">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/1</string>
-    <string name="URL_MOI_NOI">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/2</string>
-    <string name="URL_NHA_MAY_NUOC">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/3</string>
-    <string name="URL_ONG_TRUYEN_DAN">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/4</string>
-    <string name="URL_THAP_CAT_AP">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/5</string>
-    <string name="URL_THUY_DAI">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/6</string>
-    <string name="URL_TRU_HONG">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/7</string>
-    <string name="URL_DON_VI">http://112.78.5.191:6080/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/8</string>
+    <string name="URL_DONG_HO_TONG">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/0</string>
+    <string name="URL_VAN">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/1</string>
+    <string name="URL_MOI_NOI">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/2</string>
+    <string name="URL_NHA_MAY_NUOC">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/3</string>
+    <string name="URL_ONG_TRUYEN_DAN">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/4</string>
+    <string name="URL_THAP_CAT_AP">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/5</string>
+    <string name="URL_THUY_DAI">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/6</string>
+    <string name="URL_TRU_HONG">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/7</string>
+    <string name="URL_DON_VI">https://sawagis.vn/arcgis/rest/services/TruyenDan/ChuyenDe/FeatureServer/8</string>
 
 
     <!--url basemap-->
